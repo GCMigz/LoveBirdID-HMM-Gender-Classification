@@ -1,0 +1,6 @@
+numpy
+librosa
+hmmlearn
+scikit-learn
+sounddevice
+RPi.GPIO
